@@ -15,3 +15,6 @@ JSP를 사용한 게시판 기능이 있는 노원구 커뮤니티 웹사이트 
 
 ### 게시판 목록화면
 ![list](https://github.com/user-attachments/assets/bd369f38-3ce9-4df9-b138-4f7db95ccb55)
+
+### 추천 화면
+![image](https://github.com/user-attachments/assets/e95f2d29-354b-4576-a4b6-d617b3de64a9)
